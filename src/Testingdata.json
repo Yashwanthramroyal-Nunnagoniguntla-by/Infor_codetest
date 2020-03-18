@@ -1,0 +1,58 @@
+[
+      {
+        "Name": "jeff_ceo",
+        "id":101,
+        "salary":100000,
+        "managerid":0
+    
+      },
+      {
+        "Name": "Cory_manager",
+        "id":213,
+        "salary":65000,
+        "managerid":101
+      },
+      {
+        "Name": "Dave_manager",
+        "id":109,
+        "salary":85000,
+        "managerid":101
+      },
+      {
+        "Name": "Dan_employee",
+        "id":199,
+        "salary":60000,
+        "managerid":109
+      },
+      {
+        "Name": "Andy_employee",
+        "id":110,
+        "salary":65000,
+        "managerid":109
+      },
+      {
+        "Name": "Jason_employee",
+        "id":132,
+        "salary":60000,
+        "managerid":109
+      },
+      {
+        "Name": "Suzanne_employee",
+        "id":154,
+        "salary":61000,
+        "managerid":109
+      },
+      {
+        "Name": "Rick_employee",
+        "id":133,
+        "salary":56000,
+        "managerid":109
+      },
+      {
+        "Name": "Bick_employee",
+        "id":133,
+        "salary":56000,
+        "managerid":109
+      }
+
+    ]   

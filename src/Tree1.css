@@ -1,0 +1,33 @@
+.heading{
+    text-align: center;
+    text-transform: capitalize;
+    font-family: "Times New Roman", Times, serif;
+}
+.text
+{
+    font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
+}
+
+.card {
+    width:400px;
+    margin: 0 auto; 
+    float: none; 
+    margin-bottom: 10px; 
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+.table_size
+{
+    width:1000px;
+    margin: 0 auto; 
+    float: none; 
+    margin-bottom: 10px; 
+}
+.total_align
+{
+    margin-left: 1000px;
+}
